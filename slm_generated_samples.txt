@@ -1,0 +1,50 @@
+SLM Generated Samples
+Model: TinyStories GPT
+Temperature values: 0.7 and 1.0
+
+============================================================
+PROMPT: Once upon a time
+Temperature: 0.7
+============================================================
+
+Once upon a time, there was a big, friendly bear. He loved to play in the forest and collect nuts. He put them in his sack and climbed a tree to get some. But when he reached the top, he realized that he wasn't allowed to climb the tree because he had to fall.
+
+The bear was sad and didn't know what to do. He thought and thought for a moment, but he couldn't. He decided to ask his friend, the squirrel, for help. The squirrel
+
+============================================================
+PROMPT: The little rabbit
+Temperature: 0.7
+============================================================
+
+The little rabbit was very happy and couldn't wait to play with his new friend.
+
+Once upon a time, there was a little girl named Lily. One day, she went to the park to play with her friends. While they were playing, Lily's mom noticed that she was hurt. "Oh no, Lily," said her mom. "I'll make it better."
+
+Lily's mom said, "Don't worry, Lily. We can make a new friend." They went to the store
+
+============================================================
+PROMPT: One sunny day
+Temperature: 0.7
+============================================================
+
+One sunny day, the little duck went to the pond. The pond was huge and had lots of fish. The little duck saw a big fish and wanted to swim to it. The little duck was scared and didn't know what to do.
+
+But then, a friendly duck called out to the little duck. The duck said, "Don't be afraid, little duck. I will teach you." The duck said, "I will teach you how to swim. Just be very gentle and brave."
+
+============================================================
+PROMPT: There was a small dragon
+Temperature: 0.7
+============================================================
+
+There was a small dragon. He was so friendly and friendly. He asked the dragon what he was doing. The dragon replied, "I wanted to explore the world, but I'm scared I can't. I'm here to help you."
+
+The dragon was so happy and said, "Thank you for bringing me the map. I'm here to show you how to stay safe." The dragon smiled and said, "Anytime, little dragon. I'm happy to help you!"
+
+============================================================
+PROMPT: Once upon a time
+Temperature: 1.0
+============================================================
+
+Once upon a time, there was a little girl named Tina. Tina was very adventurous and would always follow her mom to go on adventures. One summer day, Tina saw something new and exciting. She hopped closer and saw a huge grey cloud. She reached out to examine it and found she was surrounded by lightning.
+
+Tina was so happy to have found that the cloud was even more beautiful than before. She ran to her mom and said, "Mommy, look! There's the warmth from"
