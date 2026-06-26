@@ -7,19 +7,18 @@ This project implements a GPT-style decoder-only Transformer language model trai
 The model learns next-token prediction and generates short, coherent story-like text sequences.
 
 
-Project Structure
-
+## Project Structure
 .
-├── data_prepare.py        Dataset download, tokenization, bin creation
-├── model.py               GPT architecture (Transformer decoder)
-├── train.py               Training loop with evaluation & checkpointing
-├── generate.py            Text generation using trained model
-├── requirements.txt       Dependencies
+├── data_prepare.py Dataset download, tokenization, bin creation
+├── model.py GPT architecture (Transformer decoder)
+├── train.py Training loop with evaluation & checkpointing
+├── generate.py Text generation using trained model
+├── requirements.txt Dependencies
 ├── data/
-│   ├── train.bin
-│   └── val.bin
-├── best_model.pt          Best checkpoint saved during training
-├── loss_curve.png         Training/validation loss plot
+│ ├── train.bin
+│ └── val.bin
+├── best_model.pt Best checkpoint saved during training
+├── loss_curve.png Training/validation loss plot
 ├── slm_generated_samples.txt
 └── README.md
 
